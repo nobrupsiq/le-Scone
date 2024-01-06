@@ -66,7 +66,7 @@ $s-device: 480px;
 
 // Gera as classes de offset
 @for $i from 1 through $cols {
-    .ofsset-#{$i} {
+    .offset-#{$i} {
         margin-left: grid($i, offset);
         @extend %offset;
     }
@@ -120,10 +120,4 @@ $s-device: 480px;
 
 .row {
     @include row;
-}
-
-div {
-    background-color: rgba(0, 0, 0, 0.4);
-    min-height: 50px !important;
-    margin-bottom: 20px;
 }

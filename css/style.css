@@ -68,56 +68,56 @@
   }
 }
 
-.ofsset-1 {
+.offset-1 {
   margin-left: calc(8.33333% + 10px);
 }
 
-.ofsset-2 {
+.offset-2 {
   margin-left: calc(16.66667% + 10px);
 }
 
-.ofsset-3 {
+.offset-3 {
   margin-left: calc(25% + 10px);
 }
 
-.ofsset-4 {
+.offset-4 {
   margin-left: calc(33.33333% + 10px);
 }
 
-.ofsset-5 {
+.offset-5 {
   margin-left: calc(41.66667% + 10px);
 }
 
-.ofsset-6 {
+.offset-6 {
   margin-left: calc(50% + 10px);
 }
 
-.ofsset-7 {
+.offset-7 {
   margin-left: calc(58.33333% + 10px);
 }
 
-.ofsset-8 {
+.offset-8 {
   margin-left: calc(66.66667% + 10px);
 }
 
-.ofsset-9 {
+.offset-9 {
   margin-left: calc(75% + 10px);
 }
 
-.ofsset-10 {
+.offset-10 {
   margin-left: calc(83.33333% + 10px);
 }
 
-.ofsset-11 {
+.offset-11 {
   margin-left: calc(91.66667% + 10px);
 }
 
-.ofsset-12 {
+.offset-12 {
   margin-left: calc(100% + 10px);
 }
 
 @media screen and (max-width: 479px) {
-  .ofsset-1, .ofsset-2, .ofsset-3, .ofsset-4, .ofsset-5, .ofsset-6, .ofsset-7, .ofsset-8, .ofsset-9, .ofsset-10, .ofsset-11, .ofsset-12 {
+  .offset-1, .offset-2, .offset-3, .offset-4, .offset-5, .offset-6, .offset-7, .offset-8, .offset-9, .offset-10, .offset-11, .offset-12 {
     margin-left: 0px;
   }
 }
@@ -168,7 +168,6 @@
 }
 
 div {
-  background-color: rgba(0, 0, 0, 0.4);
-  min-height: 50px !important;
-  margin-bottom: 20px;
+  font-family: 'Aref Ruqaa', serif;
+  font-family: 'PT Mono', monospace;
 }
